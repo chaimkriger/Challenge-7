@@ -2,7 +2,7 @@
 
 In the ETF Analyzer Application, i complete an analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the etf.db database, which the Starter_Code folder contains.
 
-i Analyze the daily returns of the ETF stocks both individually and as a whole. i then deploy the visualizations to a web application by using the Voilà library.
+I Analyze the daily returns of the ETF stocks both individually and as a whole. I then deploy the visualizations to a web application by using the Voilà library.
 
 The Application is divided into the following parts:
 
